@@ -15,6 +15,7 @@ class ViewController: UIViewController {
         // Part 3
         
         // Третий не значит первый...
+        // Закончил значит сделал
     }
 
 
