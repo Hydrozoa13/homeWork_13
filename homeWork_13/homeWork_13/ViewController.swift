@@ -13,6 +13,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Task_1
         // Part 3
+        
+        // Второй не значит последний...
     }
 
 
